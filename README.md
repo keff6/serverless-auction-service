@@ -1,3 +1,12 @@
+# Auction Service
+A serverless service to manage auctions using:
+  * serverless framework
+  * AWS free tier
+  * middy
+  * http-error
+  * uuid
+  * Auth0
+
 # Codingly.io: Base Serverless Framework Template
 
 https://codingly.io
