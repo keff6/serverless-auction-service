@@ -7,6 +7,20 @@ A serverless service to manage auctions using:
   * uuid
   * Auth0
 
+# This repository contains
+
+## serverless-auction-service
+The main project, it consists on a backend service for auctions using the serverless-framework IaaC
+
+## auth-service
+A service to authenticate users with serverless-framework and Auth0
+
+## notification-service
+A notifications service that uses AWS services like SQS
+
+
+Note: this repository is for code reference only
+
 # Codingly.io: Base Serverless Framework Template
 
 https://codingly.io
